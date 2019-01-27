@@ -10,7 +10,7 @@ public static void main(String[] args) {
     //Creating Books    
     Pojo1 b1=new Pojo1(101,"Sharathkumar","Hyd","Associate engineer",30000);    
     Pojo1 b2=new Pojo1(102,"Yogesh","Nirmal","Agriculture",15000);    
-    Pojo1 b3=new Pojo1(103,"Shivraj","Mumbai","Technical Officer",80000);    
+    Pojo1 b3=new Pojo1(103,"Anji","Hyd","Associate engineer",32500);    
     //Adding Books to map   
     map.put(1,b1);  
     map.put(2,b2);  
